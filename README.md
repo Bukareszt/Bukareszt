@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Bukareszt
-
-- 👀 I’m interested in designing applications with the microservice architecture and creating automatizations with difrent integrations (Discord, Google Cloud
+# 👋 Hi, I’m @Bukareszt
+👀 I’m interested in designing applications with the microservice architecture and creating automatizations with difrent integrations (Discord, Google Cloud
 and Client Relation Manegment systems).
+
 - :orange_book: I am learning use AWS and Next.js
 - I am working with:
   - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
